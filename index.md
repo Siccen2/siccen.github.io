@@ -119,9 +119,9 @@ An SGML application consists of several parts:
 
 ## Exersice 3
 
-![Dark Tresuer][Dark]
+[Dark Tresuer][Dark]
 
-[Dark]:(https://www.youtube.com/watch?v=WrYlXckeWms&ab_channel=Novolus)
+[Dark]:https://www.youtube.com/watch?v=WrYlXckeWms&ab_channel=Novolus
 
 ![Karelian Karhu Koira](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karelski_pies_na_nied%C5%BAwiedzie_sylwetka.JPG/1280px-Karelski_pies_na_nied%C5%BAwiedzie_sylwetka.JPG)
 
