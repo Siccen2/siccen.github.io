@@ -119,7 +119,7 @@ An SGML application consists of several parts:
 
 ## Exersice 3
 
-[Dark Tresuer][Dark]
+![Dark Tresuer][Dark]
 
 [Dark]:(https://www.youtube.com/watch?v=WrYlXckeWms&ab_channel=Novolus)
 
